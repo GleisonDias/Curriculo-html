@@ -1,0 +1,24 @@
+.Fotojima{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid #4169E1;
+    object-fit: cover;
+    margin-left: 10px;
+
+}
+body{
+    background-color: #f0f8ff;
+}
+.retangulo-azul{
+    background-color: #6495ed;
+}
+.habilidades{ 
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+.ponto{
+    color: #4169E1;
+}
